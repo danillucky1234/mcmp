@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>menu.svg</file>
+        <file>threeDots.svg</file>
+        <file>circle-play.svg</file>
+        <file>circle-pause.svg</file>
+        <file>heart.svg</file>
+        <file>circle-left.svg</file>
+        <file>icon.png</file>
+        <file>trash-can.svg</file>
+        <file>square-plus.svg</file>
+        <file>star.svg</file>
+        <file>circle.svg</file>
+        <file>brush.svg</file>
+        <file>next.svg</file>
+        <file>previous.svg</file>
+        <file>radio.svg</file>
+        <file>repeat.svg</file>
+        <file>repeat_one.svg</file>
+        <file>shuffle.svg</file>
+        <file>send.svg</file>
+    </qresource>
+</RCC>
+

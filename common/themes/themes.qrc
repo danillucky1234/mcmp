@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/themes">
+        <file>default.json</file>
+        <file>dracula.json</file>
+    </qresource>
+</RCC>
+

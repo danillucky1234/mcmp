@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Header.qml</file>
+        <file>Menue.qml</file>
+        <file>Track.qml</file>
+        <file>Separator.qml</file>
+        <file>Playlist.qml</file>
+        <file>TracksPage.qml</file>
+        <file>PlaylistsPage.qml</file>
+        <file>Tabs.qml</file>
+        <file>customComponents/TabButton.qml</file>
+        <file>TrackController.qml</file>
+        <file>CustomSlider.qml</file>
+        <file>TracksInPlaylist.qml</file>
+        <file>TrackSettings.qml</file>
+        <file>PlaylistsMenu.qml</file>
+        <file>CreatePlaylist.qml</file>
+        <file>SettingsPage.qml</file>
+        <file>SideMenu.qml</file>
+        <file>TrackInfo.qml</file>
+        <file>RadioPage.qml</file>
+        <file>MusicPlayer.qml</file>
+    </qresource>
+</RCC>
